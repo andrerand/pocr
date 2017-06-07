@@ -1,0 +1,7 @@
+import the image
+convert to grayscale... scikit-image, imread('path/to/the/image', as_grey=true)
+find a threshold value (otsu_threshold function)
+if statement to convert to black and white
+use tesseract
+
+https://github.com/andela-foladeji/License-Plate-Recognition-Nigerian-vehicles/blob/master/preprocess.py

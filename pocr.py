@@ -69,5 +69,6 @@ def push_to_google_sheet(text):
     wks.insert_rows(1, number=1, values=text_list)
 
 if __name__ == '__main__':
+    # this is the starting point
 	w = Watcher()
 	w.run()
